@@ -1,4 +1,3 @@
-#Telecommunication Customer Churn Analysis
 
 EXECUTIVE SUMMARY 
 
